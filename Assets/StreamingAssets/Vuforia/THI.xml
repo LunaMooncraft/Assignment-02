@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig>
-  <Tracking>
-    <ImageTarget name="photo-03" size="0.200000 0.153022" />
-    <ImageTarget name="photo-01" size="0.200000 0.207595" />
-    <ImageTarget name="photo-2" size="0.200000 0.121622" />
-    <ImageTarget name="enginemarker" size="0.200000 0.200000" />
-  </Tracking>
-</QCARConfig>

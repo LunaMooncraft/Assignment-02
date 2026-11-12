@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Church-Window" size="0.200000 0.252321" />
+    <ImageTarget name="Vitruvian-man" size="0.200000 0.233233" />
+    <ImageTarget name="Platonic-Solids" size="0.200000 0.245548" />
+    <ImageTarget name="enginemarker" size="0.200000 0.200000" />
+  </Tracking>
+</QCARConfig>
